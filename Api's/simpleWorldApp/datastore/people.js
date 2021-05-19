@@ -1,0 +1,36 @@
+module.exports = {
+    category:'people',
+    description:'',
+    data:[
+        {
+            fact:{
+                title:'You Have “Inattention Blindness',
+                text:'what is called “inattention blindness” or “change blindness.” The idea is that people often miss large changes in their visual field. This has been shown in many experiments.So what does this mean if you are designing a website or something on a computer screen? It means that you can’t assume that just because something is on the screen that people see it. This is especially true when you refresh a screen and make one change on it. People may not realize they are even looking at a different screen. Remember, just because something happens in the visual field doesn’t mean that people are consciously aware of it.'
+            },
+            reference:'https://www.businessinsider.com/100-things-you-should-know-about-people-2010-11#3--you-can-only-remember-3-to-4-things-at-a-time-the-magic-number-3-or-4-3',
+            opinion:'whoa i didnt know that fascinating',
+            keywords:['Inattention','Blindness','consciously aware'],
+            imagelink:'https://i.insider.com/4ccaf887cadcbbb24b020000?width=300&format=jpeg&auto=webp'
+        },
+        {
+            fact:{
+                title:' You READ FASTER With a longer Line Length But PREFER Shorter',
+                text:'Have you ever had to decide how wide a column of text you should use on a screen? Should you use a wide column with 100 characters per line? or a narrow column with 50 characters per line?It turns out that the answer depends on whether you want people to read faster or whether you want them to like the page!Research (see reference below) demonstrates that 100 characters per line is the optimal length for on-screen reading speed; but it’s not what people prefer. People read faster with longer line lengths (100 characters per line), but they prefer a short or medium line length (45 to 72 characters per line). In the example above from the New York Times Reader, the line length averages 39 characters per line.The research also shows that people can read one single wide column faster than multiple columns, but they prefer multiple columns (like the New York Times Reader above).So if you ask people which they prefer they will say multiple columns with short line lengths. Interestingly, if you ask them which they read faster, they will insist it is also the multiple columns with short line lengths, even though the data shows otherwise.It’s a quandary: Do you give people what they prefer or go against their own preference and intuition, knowing that they will read faster if you use a longer line length and one column? What would you do?'
+            },
+            reference:'https://www.businessinsider.com/100-things-you-should-know-about-people-2010-11#3--you-can-only-remember-3-to-4-things-at-a-time-the-magic-number-3-or-4-3',
+            opinion:'another weird thing i didnt know about myself',
+            keywords:['You READ FASTER','column of text',' Line Length'],
+            imagelink:'https://i.insider.com/4ccaf887cadcbbb24b020000?width=300&format=jpeg&auto=webp'
+        },
+        {
+            fact:{
+                title:'You Can Only Remember 3 to 4 Things At A Time (The Magic Number 3 or 4)',
+                text:'Those of you who have been in the field of usability or user experience for a few years have probably heard the phrase “The Magic Number 7 Plus Or Minus 2″. This refers, actually, to what I would call an urban legend. Here’s the legend part:Legend: “A guy named Miller did research and wrote a paper showing that people can remember from 5 to 9 (7 plus or minus 2) things, and that people can process 7 plus or minus 2 pieces of information at a time. So you should only put 5 to 9 items on a menu, or have 5 to 9 tabs on a screen”.Have you heard this? If you’ve been reading about usability for a while I’m sure you have. Well, it’s not quite accurate. Another guy named Baddeley questioned all this urban legend. Baddeley dug up Miller’s paper and discovered that it wasn’t a research paper, it was a talk that Miller gave at a professional meeting. And it was basically Miller thinking out loud about whether there is some kind of inherent limit to the amount of information that people can process at a time.Baddeley conducted a long series of studies on human memory and information processing. And what he concluded is that the number is 3 to 4, not 5 to 9.You can remember about 3-4 things (for about 20 seconds) and then they will disappear from memory unless you repeat them over and over. For example, let’s say you are driving in your car and talking on your cell phone (ok, you shouldn’t be doing that) and someone gives you a number to call. But you don’t have a pen handy, and anyway you are driving. So you try to memorize the number long enough to hang up from one call and dial the new number. What do you do? You repeat the number over and over (putting it back into short term memory each time, which buys you another 20 seconds). The interesting thing about phone numbers is that they are more than 3 or 4 numbers long. So they are hard to remember for more than 20 seconds.712-569-4532We also tend to chunk information into groups that have 3-4 items in them. So a phone number in the US is: 712-569-4532. Three chunks, with 3-4 items in each chunk. If you know the area code “by heart” (i.e., it’s stored in long term memory), then you don’t have to remember that, so one whole chunk went away. Phone numbers used to be easier to remember because you mainly called people in your area code, so you had the area code memorized (plus you didn’t even have to “dial” the area code at all). And then if you were calling people in your town each town had the same “exchange” — that is the 569 part of the phone number above. So all you had to remember was the last four numbers. No problem! I know I’m “dating” myself here by telling you how it used to be back in the old days. (I live in a small town in Wisconsin, and people here still give their number out as the last four digits only).But that’s not all! Researchers working in the field of decision-making tell us that people can’t effectively choose between more than 3 to 4 items at a time.So, what does all this mean? Can you really only have 4 items on a navigation bar? or 4 tabs on a screen, or 4 items on a product detail page at an e-commerce web site? No, not really. You can have more, as long as you group and chunk.Here’s an example: At the Upton Tea site they have lots of tabs, but the tabs are not chunked into groups of 3 or 4.So people will tend to do a partial scan and not even look at or read all the tabs. (I love their teas, by the way.. just wish they would do some work on the layout and emotional aspects of their site, but that’s probably another blog!).'
+            },
+            reference:'https://www.businessinsider.com/100-things-you-should-know-about-people-2010-11#3--you-can-only-remember-3-to-4-things-at-a-time-the-magic-number-3-or-4-3',
+            opinion:'that sucks i wish i could rember alot more ',
+            keywords:['Remember','total','memory limits'],
+            imagelink:'https://i.insider.com/4ccaf887cadcbbb24b020000?width=300&format=jpeg&auto=webp'
+        }
+    ]
+}
