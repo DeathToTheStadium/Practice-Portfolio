@@ -1,0 +1,25 @@
+{
+  "name": "loginsystem",
+  "version": "1.0.0",
+  "description": "basically a login system so i can pracitce building websites that require profiles",
+  "main": "app.js",
+  "scripts": {
+    "start": "node-sass --watch ./src/sass/main.scss ./src/public/css/main.css",
+    "load": "nodemon --watch app.js"
+  },
+  "author": "DeathToTheStadium",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "express-partials": "^0.3.0",
+    "mongoose": "^5.12.10"
+  },
+  "devDependencies": {
+    "node-sass": "^6.0.0",
+    "nodemon": "^2.0.7"
+  }
+}
