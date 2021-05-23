@@ -14,7 +14,6 @@ app.get('/guns',(req,res)=>{
     res.json(data.Data.guns)
 })
 app.get('/wars',(req,res)=>{
-
     res.json(data.Data['wars'])
 })
 app.get('/population',(req,res)=>{

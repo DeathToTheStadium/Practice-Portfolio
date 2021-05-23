@@ -1,0 +1,20 @@
+<form class="form form--dark" method="POST" action="/sign-up">
+    <label class="form__label" for="firstName">FirstName</label>
+    <input autocomplete="off" class="form__input" type="text" name="firstName" id="firstName">
+    <br>
+    <label class="form__label" for="lastName">LastName</label>
+    <input autocomplete="off" class="form__input" type="text" name="lastName" id="lastName">
+    <br>
+    <label class="form__label" for="email">Email</label>
+    <input autocomplete="off" class="form__input" type="email" name="email" id="">
+    <br>
+    <label class="form__label" for="userName">UserName</label>
+    <input autocomplete="off" class="form__input" type="text" name="userName">
+    <br>
+    <label class="form__label" for="password">Password</label>
+    <input autocomplete="off" class="form__input" type="password" name="password" id="">
+    <br>
+    <button onclick="this.classList.toggle('form__button--spinner')" class="form__button form--green" type="submit">
+        <span class="form__button__text">Create Account</span>
+    </button>
+</form>
